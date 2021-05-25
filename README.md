@@ -11,13 +11,19 @@ The root directories of countless projects across the interwebs are littered wit
 Here is what your average project’s `Filefile` might look like:
 
 ```
+Appfile
 Berksfile
 Blakefile
+Brewfile
+buildfile
+Caddyfile
 Cakefile
 Capfile
+Caskfile
 Cheffile
 Dockerfile
 Doxyfile
+Fastfile
 Filefile
 Gemfile
 Gruntfile
@@ -26,10 +32,13 @@ Huxleyfile
 Jakefile
 Knylefile
 Makefile
+Modulefile
 Podfile
 Portfile
 Procfile
+Puppetfile
 Rakefile
+Sitefile
 Tenderfile
 Vagrantfile
 ```
@@ -46,6 +55,7 @@ $ touch Filefile && ls *file >> Filefile
 ## Example repositories
 
 - [cobyism/Filefile](https://github.com/cobyism/Filefile/blob/master/Filefile)
+- [pyaa/authority](https://github.com/pyaa/authority/blob/master/Filefile)
 
 ## Contributing
 
